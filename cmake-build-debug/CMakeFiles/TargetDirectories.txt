@@ -1,0 +1,3 @@
+/home/konyango/CLionProjects/billing system/cmake-build-debug/CMakeFiles/billing_system.dir
+/home/konyango/CLionProjects/billing system/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/konyango/CLionProjects/billing system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
